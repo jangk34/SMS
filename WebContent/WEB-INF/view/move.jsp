@@ -16,6 +16,7 @@ table {
     width: 650px;
     height: 400px;
   }
+  
   table, th, td {
     border: 1px solid #bcbcbc;
   }
